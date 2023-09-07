@@ -29,4 +29,21 @@
 - maintain a history of change
 - help code reviews
 - go back when problem happens
-- work with others effectively
+- work with others efficiently
+# Purpose of the following Git Commands
+- `git init`: start using git for new projects
+- `git status`: check recent changes 
+- `git add`: prepare to send changed information to github server
+- `git commit`: description about what's changed
+- `git push`: upload changes to github server
+- `git pull`: get latest changes from github server
+- `git log`: see the history
+- `git branch`: List, create, delete branches
+- `git merge`: combine changes from branches
+- `git checkout`: swithch between branches of my project
+# My Unique Touch
+## Describe something that sets you apart from others
+- I can do mental calculation very fast.
+- I'm a well organized person.
+- I'm such a hard worker.
+- I like to help others.
