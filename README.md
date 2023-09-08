@@ -22,7 +22,7 @@
 # Purpose of the following Commands:
 - `mkdir`: make a directory 
 - `cd`: change the current directory location
-- `code`: Open IDE
+- `code`: Open IDE(visual studio code)
 - `ls`: List of files in this directory
 ## Why Version Control is Important
 ## with version control, it is possible to:
