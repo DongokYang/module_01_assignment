@@ -18,18 +18,21 @@
     (use "git add <file>..." to update what will be committed)
     (use "git restore <file>..." to discard changes in working directory)
             modified:   README.md
-    no changes added to commit (use "git add" and/or "git commit -a")  
+    no changes added to commit (use "git add" and/or "git commit -a")
+
 # Purpose of the following Commands:
 - `mkdir`: make a directory 
 - `cd`: change the current directory location
 - `code`: Open IDE(visual studio code)
 - `ls`: List of files in this directory
+
 ## Why Version Control is Important
 ## with version control, it is possible to:
 - maintain a history of change
 - help code reviews
-- go back when problem happens
+- go back when problems happen
 - work with others efficiently
+
 # Purpose of the following Git Commands
 - `git init`: start using git for new projects
 - `git status`: check recent changes 
@@ -41,9 +44,11 @@
 - `git branch`: List, create, delete branches
 - `git merge`: combine changes from branches
 - `git checkout`: swithch between branches of my project
+
 # My Unique Touch
 ## Describe something that sets you apart from others
 - I can do mental calculation very fast.
 - I'm a well organized person.
 - I'm such a hard worker.
 - I like to help others.
+- I'm good at mathmatics
